@@ -54,7 +54,7 @@ The key deliverable of this project is a Power BI dashboard that provides insigh
 
 -**Average Salary by Job Title:** This chart will showcase the average salary for each unique IT and Data Science job title.
 
--**Average Education Level by Job Title and Country:** This table will potentially reveal the average education level for each job title within each country (if education data is included).
+-**Average Education Level by Job Title and Country:** This table will potentially reveal the average education level for each job title within each country.
 
 ## Target Audience
 This project can benefit the following audiences:
