@@ -47,19 +47,25 @@ Uncover job title impact: Identify how job titles within IT and Data Science fie
 The key deliverable of this project is a Power BI dashboard that provides insights into the following aspects:
 
 -**Average Salary by Country:** This visualization will show the average salary for IT and Data Science jobs in each of the included countries.
+
 -**Count of Gender:** This chart will display the distribution of genders within the dataset.
+
 -**Count of Country by Age and Country:** This table will break down the number of individuals by age group within each country.
+
 -**Average Salary by Job Title:** This chart will showcase the average salary for each unique IT and Data Science job title.
+
 -**Average Education Level by Job Title and Country:** This table will potentially reveal the average education level for each job title within each country (if education data is included).
 
 ## Target Audience
 This project can benefit the following audiences:
 
 -**IT Professionals and Data Scientists**: Gain insights into salary trends across different countries and job titles within their field.
+
 -**Job Seekers**: Understand potential salary ranges for IT and Data Science jobs in their desired countries.
 
 ## Project Limitations
 It's important to consider these limitations:
 
 Data Representativeness: The chosen dataset might not comprehensively reflect the entire IT and Data Science job market.
+
 Salary Averages: The visualizations present average salaries, which may not represent the actual salary of any specific individual.
