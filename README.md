@@ -2,32 +2,52 @@
 This Power BI project analyzing salaries for IT and Data Science roles across five countries:
 
 -Canada
+
 -USA
+
 -UK
+
 -Australia
+
 -China
 
 Additionally, the project seeks to shed light on factors that affect pay in a variety of fields, including
 -Business Analysis
+
 -Data Science Engineering
+
 -Graphic Design
+
 -IT Consulting
+
 -IT Management
+
 -IT Project Management
+
 -IT Support
+
 -IT Support Specialist
+
 -Network Engineering
+
 -Quality Assurance Analyst
+
 -Software Architect
+
 -Software Developer
+
 -Software Manager
+
 -Software Project Management
+
 -UX Designer
+
 -UX Researcher
+
 -Web Designer
 
 ## Data Source
-The data for this project is obtained from the Kaggle dataset: (latest-data-science-job-salaries-2024). This dataset is assumed to contain information on job titles, salaries, countries, and potentially other relevant factors like experience, education level, and gender.
+The data for this project is obtained from the Kaggle dataset: ([latest-data-science-job-salaries-2024](https://www.kaggle.com/datasets/saurabhbadole/latest-data-science-job-salaries-2024)) . This dataset is assumed to contain information on job titles, salaries, countries, and potentially other relevant factors like experience, education level, and gender.
 
 ## Tools and Technologies
 This project is implemented using Microsoft Power BI. Power BI is a business intelligence tool that allows for data visualization and interactive dashboards.
